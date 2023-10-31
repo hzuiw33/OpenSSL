@@ -35,17 +35,6 @@ python3 ssltest.py your-ip
 
 <br/>
 
-## 결과
-
-
-<br/>
-
-## 해결법
-- OpenSSL의 버그에서 비롯된 문제인 만큼 버그가 존재하지 않는 최신 버전으로 업데이트하는 것만으로도 예방이 가능하다.
-- 만일 Heartbleed 공격을 당한 것 같다면 서버 측 SSL 비밀키 를 재발급받고 이용하는 사용자들에게 패스워드 재설정을 하도록 공지를 해야 한다.
-
-<br/>
-
 ## 참고 링크
 
 - https://github.com/Threekiii/Vulhub-Reproduce/blob/master/OpenSSL%20%E5%BF%83%E8%84%8F%E5%87%BA%E8%A1%80%E6%BC%8F%E6%B4%9E%20CVE-2014-0160.md
